@@ -50,4 +50,24 @@ This document provides a comprehensive list of tools commonly used in genomics d
 
 - [Galaxy](https://galaxyproject.org/): Galaxy is an open-source platform for data-intensive biomedical research that allows users to perform computational biology tasks without the need for programming.
 
+## Quality Control
+
+- [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/): A quality control tool for high throughput sequence data.
+
+- [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic): A flexible read trimming tool for Illumina sequence data.
+
+## RNA-seq Analysis
+
+- [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/): Cufflinks assembles transcripts, estimates their abundances, and tests for differential expression and regulation in RNA-Seq samples.
+
+- [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html): An R package for differential gene expression analysis based on the negative binomial distribution.
+
+- [edgeR](https://bioconductor.org/packages/release/bioc/html/edgeR.html): An R package for differential expression analysis of digital gene expression data.
+
+## Metagenomics
+
+- [Kraken](https://ccb.jhu.edu/software/kraken/): Kraken is a system for assigning taxonomic labels to short DNA sequences, usually obtained through metagenomic studies.
+
+- [MetaPhlAn](https://github.com/biobakery/MetaPhlAn): MetaPhlAn is a computational tool for profiling the composition of microbial communities (Bacteria, Archaea, Eukaryotes and Viruses) from metagenomic shotgun sequencing data with species-level resolution.
+
 These tools form the backbone of many genomics data science projects, and understanding how to use them effectively can greatly enhance your productivity and the quality of your results.
